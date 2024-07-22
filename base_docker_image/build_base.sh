@@ -1,1 +1,1 @@
-docker build -t base_image:0.1.0 .
+docker build -t yt_stream_base_image:0.1.0 .
